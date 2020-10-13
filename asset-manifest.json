@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/css/main.5d1697ee.chunk.css",
-    "main.js": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/main.2abca4f4.chunk.js",
-    "main.js.map": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/main.2abca4f4.chunk.js.map",
-    "runtime-main.js": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/runtime-main.0eeedcef.js",
-    "runtime-main.js.map": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/runtime-main.0eeedcef.js.map",
-    "static/js/2.07df1cef.chunk.js": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/2.07df1cef.chunk.js",
-    "static/js/2.07df1cef.chunk.js.map": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/2.07df1cef.chunk.js.map",
-    "index.html": "/Yen-yen/yenyen-2020-fall-web.github.io.git/index.html",
-    "precache-manifest.d2a7071aa093a3a09744c35ca76ccdf9.js": "/Yen-yen/yenyen-2020-fall-web.github.io.git/precache-manifest.d2a7071aa093a3a09744c35ca76ccdf9.js",
-    "service-worker.js": "/Yen-yen/yenyen-2020-fall-web.github.io.git/service-worker.js",
-    "static/css/main.5d1697ee.chunk.css.map": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/css/main.5d1697ee.chunk.css.map",
-    "static/js/2.07df1cef.chunk.js.LICENSE.txt": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/js/2.07df1cef.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Yen-yen/yenyen-2020-fall-web.github.io.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/yenyen-2020-fall-web.github.io/static/css/main.9cfae7c3.chunk.css",
+    "main.js": "/yenyen-2020-fall-web.github.io/static/js/main.d4126a64.chunk.js",
+    "main.js.map": "/yenyen-2020-fall-web.github.io/static/js/main.d4126a64.chunk.js.map",
+    "runtime-main.js": "/yenyen-2020-fall-web.github.io/static/js/runtime-main.8eedd376.js",
+    "runtime-main.js.map": "/yenyen-2020-fall-web.github.io/static/js/runtime-main.8eedd376.js.map",
+    "static/js/2.72442180.chunk.js": "/yenyen-2020-fall-web.github.io/static/js/2.72442180.chunk.js",
+    "static/js/2.72442180.chunk.js.map": "/yenyen-2020-fall-web.github.io/static/js/2.72442180.chunk.js.map",
+    "index.html": "/yenyen-2020-fall-web.github.io/index.html",
+    "precache-manifest.4e509931a4f98c19ec7a874c984f680f.js": "/yenyen-2020-fall-web.github.io/precache-manifest.4e509931a4f98c19ec7a874c984f680f.js",
+    "service-worker.js": "/yenyen-2020-fall-web.github.io/service-worker.js",
+    "static/css/main.9cfae7c3.chunk.css.map": "/yenyen-2020-fall-web.github.io/static/css/main.9cfae7c3.chunk.css.map",
+    "static/js/2.72442180.chunk.js.LICENSE.txt": "/yenyen-2020-fall-web.github.io/static/js/2.72442180.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0eeedcef.js",
-    "static/js/2.07df1cef.chunk.js",
-    "static/css/main.5d1697ee.chunk.css",
-    "static/js/main.2abca4f4.chunk.js"
+    "static/js/runtime-main.8eedd376.js",
+    "static/js/2.72442180.chunk.js",
+    "static/css/main.9cfae7c3.chunk.css",
+    "static/js/main.d4126a64.chunk.js"
   ]
 }
