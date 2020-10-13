@@ -22,6 +22,11 @@ ReactDOM.render(
     <h2>B06901008</h2>
     <h2>B06901008</h2>
   </body>,
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <Route path="/" exact component={Bcomponent}></Route>
+    <Route path="/show-all" component={Ccomponent}></Route>
+    <Route path="/create-rest" component={Acomponent}></Route>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
