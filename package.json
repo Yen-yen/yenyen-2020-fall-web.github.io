@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Yen-yen/yenyen-2020-fall-web.github.io.git",
+  "homepage": "http://yen-yen.github.io/yenyen-2020-fall-web.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
